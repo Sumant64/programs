@@ -1,0 +1,9 @@
+package lecture1;
+
+public class Program1_hello_world {
+	public static void main(String[] args) {
+		System.out.println("hello world");
+		System.out.println("Hello world with Java");
+		System.out.print("Hello world with java");
+	}
+}
