@@ -1,0 +1,11 @@
+//To use the new line (\n)
+
+package lecture1;
+
+public class Program_2_new_line {
+	public static void main(String[] args) {
+		System.out.print("Hello world with java\n");
+		System.out.print("Hello world with java\n");
+		System.out.print("Hello world with java");
+	}
+}
